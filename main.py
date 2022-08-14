@@ -40,9 +40,10 @@ with header.expander("About this app🔽", expanded=True):
         analyze what is received and its structure. This was easy and fun experiment.
         """
     )
-#--------------------------
 
-#--------------------------
+
+
+
 #INPUTS
 with input:
     st.subheader("Inputs")
